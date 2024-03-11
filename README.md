@@ -1,6 +1,6 @@
 # chatty-kathy
 
-Experiments with griptape and gradio.
+Experiments with [griptape](https://www.griptape.ai/) and [gradio](https://gradio.app/).
 
 # installation
 
